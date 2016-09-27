@@ -11,4 +11,4 @@ finished: true
 
 Testing 
 
-![monkeys]({{ site.url }}/img/monkey.jpg)
+![monkeys]({{ site.baseurl }}/img/monkey.jpg)
