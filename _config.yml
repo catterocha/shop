@@ -1,0 +1,40 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Title of the blog
+title: Rui Grandão
+
+# Name of your site (displayed in the header)
+name: Rui Grandão
+
+# Email
+email: ruigrandaorocha@gmail.com
+
+# Short bio or description (displayed in the header)
+description: Self-proclaimed thinker
+
+# Social media
+twitter_username: ruigrandaorocha
+github_username: ziglef
+disqus_username: ziglef
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-73797716-2
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: http://ziglef.github.io
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: "/blog"
+
+# Skillstree
+skillstree: false
+
+# Build settings
+permalink: none
+markdown: kramdown

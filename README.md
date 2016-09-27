@@ -1,1 +1,1 @@
-# shop
+A simple blog based on Jekyll now and the Nice Blog theme.
