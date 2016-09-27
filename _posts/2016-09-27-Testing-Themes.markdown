@@ -8,7 +8,7 @@ category: Products
 tags: socks handmade monkeys
 img: /img/monkey.jpg
 img_alt: hue
-finished: true
+finished: false
 ---
 
 Testing 

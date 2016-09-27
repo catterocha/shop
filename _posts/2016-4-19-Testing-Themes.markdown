@@ -6,7 +6,7 @@ date: 2016-09-27
 author: Catarina Rocha
 category: Products
 tags: socks handmade monkeys
-finished: true
+finished: false
 ---
 
 Testing 
