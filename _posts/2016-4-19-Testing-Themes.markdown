@@ -11,4 +11,4 @@ finished: true
 
 Testing 
 
-![monkeys](img/monkey.jpg)
+![monkeys](../img/monkey.jpg)
