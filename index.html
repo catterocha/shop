@@ -36,7 +36,7 @@ layout: default
 {% endif %}
 
 <ul>
-	<img src="{{ post.img | site.baseurl }}" alt="{{ post.img_alt }}" height="400" width="200">
+	<img src="{{ post.img | prepend: site.baseurl }}" alt="{{ post.img_alt }}" height="400" width="200">
 	<li>
 		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 		<span class="date"> - {{ post.date | date_to_long_string }}</span>
