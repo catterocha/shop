@@ -6,7 +6,7 @@ date: 2016-09-27
 author: Catarina Rocha
 category: Products
 tags: socks handmade monkeys
-img: /img/monkey.jpg
+img: /img/miosotis.jpg
 img_alt: hue
 finished: false
 ---
@@ -18,3 +18,4 @@ asfasdasd
 sadasdas
 asdasdasd
 asdasdasd
+![miosotis]({{ site.baseurl }}/img/miosotis.jpg)
