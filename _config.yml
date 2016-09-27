@@ -3,34 +3,34 @@
 #
 
 # Title of the blog
-title: Rui Grandão
+title: Miosótis 
 
 # Name of your site (displayed in the header)
-name: Rui Grandão
+name: Catarina Rocha
 
 # Email
-email: ruigrandaorocha@gmail.com
+email: catarinagrandao@gmail.com
 
 # Short bio or description (displayed in the header)
-description: Self-proclaimed thinker
+description: Handmade things
 
 # Social media
-twitter_username: ruigrandaorocha
-github_username: ziglef
-disqus_username: ziglef
+facebook_username: catarina.rocha.9083
+instagram_username: catterocha
+disqus_username: miosotis
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-73797716-2
+google_analytics: UA-84858006-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://ziglef.github.io
+url: http://catterocha.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/blog"
+baseurl: "/shop"
 
 # Skillstree
 skillstree: false

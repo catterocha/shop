@@ -1,1 +1,1 @@
-A simple blog based on Jekyll now and the Nice Blog theme.
+A blog about handmade things.
