@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Testing Th(m)emes."
-subtitle: "A simply subtitle."
-date: 2016-4-19
-author: Rui Grandão
-category: Jekyll
-tags: jekyll github blog test
+title: "Sock Monkeys"
+subtitle: "Handmade toys"
+date: 2016-09-27
+author: Catarina Rocha
+category: Products
+tags: socks handmade monkeys
 finished: true
 ---
 
-Testing out Jekyll Themes.
+Testing 
+
+![monkeys](img/monkey.jpg)
